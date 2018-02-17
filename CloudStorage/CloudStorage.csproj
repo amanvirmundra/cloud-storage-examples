@@ -54,7 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Examples\ContainerOperations.cs" />
+    <Compile Include="Examples\BlobContainerOperations.cs" />
     <Compile Include="Examples\Interfaces\ITableContainerOperations.cs" />
     <Compile Include="Examples\Interfaces\ITableOperations.cs" />
     <Compile Include="Examples\Interfaces\IQueueOperations.cs" />
